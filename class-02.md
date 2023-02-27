@@ -14,3 +14,16 @@ mkdir new-project
 touch new-project/newfile.md
 cd ..
 ls projects/new-project
+
+
+1. T or F. There are four important features to look for in a text editor? 
+2.
+
+
+
+
+
+
+
+
+1. True. the four things are ............
